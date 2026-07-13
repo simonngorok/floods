@@ -1,1 +1,1 @@
-# Malawi-2015-Flood-Damage
+# malawi2015-floods
